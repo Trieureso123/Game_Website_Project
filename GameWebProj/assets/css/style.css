@@ -19,3 +19,19 @@ li
     text-align: justify;
 }
 
+.neonText:hover {
+    width: 25%;
+    transition-duration: 0.2s;
+    transition-delay: 0.1s;
+    color: rgb(91, 84, 84);
+    text-shadow:
+      0 0 7px rgb(29, 29, 29),
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 49px rgb(255, 0, 255),
+      0 0 75px rgb(255, 0, 255),
+      0 0 80px rgb(255, 0, 255),
+      0 0 90px rgb(255, 0, 255),
+      0 0 100px rgb(255, 0, 255);
+  }
+
